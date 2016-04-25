@@ -12,10 +12,9 @@ npm install
 ```
 ## Setup
 
-1) First make a bot integration inside of your Slack channel. Go here:
-https://my.slack.com/services/new/bot
+1) First make a bot integration inside of your Slack channel. Go here: https://my.slack.com/services/new/bot
 
-    Enter a name for your bot.
+Enter a name for your bot.
 Make it something fun and friendly, but avoid a single task specific name.
 Bots can do lots! Let's not pigeonhole them.
 
@@ -32,7 +31,8 @@ token=REPLACE_THIS_WITH_YOUR_TOKEN node bot.js
     Type: `/invite @<botname>` to invite your bot into channel.
 
 
-5) Your bot should be online! Within Slack, send it a quick direct message to say hello. It should say hello back! `Hello @<botname>`.
+5) Your bot should be online! Within Slack, send it a quick direct message to say hello. It should say hello back! 
+`Hello @<botname>`.
 
 ## Running Javascript in Slack
 Type: `js mode @<botname>`
@@ -57,6 +57,7 @@ Type: `exit`
 
 ## TODO:
 1) Run attatched js files.
+
 2) save code as snippet.
 
 
