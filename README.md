@@ -6,7 +6,7 @@ It is built using Botikit by Howdy. https://howdy.ai/botkit/
 
 ## Installation
 ```bash
-git clone git@github.com:howdyai/botkit.git
+git clone https://github.com/prashantagarwal/RunJS-Slackbot.git
 cd RunJS-Slackbot
 npm install
 ```
