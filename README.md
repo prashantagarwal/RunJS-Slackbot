@@ -53,7 +53,7 @@ Output
 Type: `exit`
 ## Demo
 
-
+![alt tag](http://i.imgur.com/lvx06FU.gif)
 
 ## TODO:
 1) Run attatched js files.
